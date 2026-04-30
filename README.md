@@ -1,13 +1,13 @@
-# 🛡️ Papan Kata - Eksperimen Keamanan Web (Stored XSS)
+# Papan Kata - Eksperimen Keamanan Web (Stored XSS)
 
 Repository ini berisi kode sumber untuk eksperimen kerentanan **Stored Cross-Site Scripting (XSS)** dan mitigasinya menggunakan PHP Native dan MySQL. Proyek web dengan antarmuka *full-width* ini dibangun sebagai pemenuhan tugas Ujian Tengah Semester (UTS) mata kuliah Pemrograman Web.
 
-## 🛠️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 * **Backend:** PHP Native
 * **Database:** MySQL
 * **Frontend:** HTML & CSS (Embedded Style)
 
-## 🚀 Cara Menjalankan Project
+## Cara Menjalankan Project
 
 1. Pastikan **XAMPP** (Apache & MySQL) sudah berjalan di komputermu.
 2. repository ini ke dalam folder `htdocs`:
